@@ -1,6 +1,9 @@
-# Holodex & Hyperchat Tweaks
+# Holodex & Hyperchat Tweaks - Atlantis
 
 ## Description
+Fork of Himither's Holodex & Hyperchat Tweaks.
+Primarily includes extra visual/element spacing changes, and some button usability changes.
+
 Improved dark mode, adjustable chat and menu width, hiding scrollbars/buttons and many more tweaks.
 
 [![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad.svg)](https://raw.githubusercontent.com/Himither/Holodex-Hyperchat-Tweaks/master/holodex.user.css)
